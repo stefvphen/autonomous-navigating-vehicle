@@ -1,5 +1,6 @@
 Autonomous Navigating Vehicle (May 2025)
 
+Coded in collaboration with a project partner.
 This is the Arduino IDE code for a small cart to autonomously navigate a course consisting of a white path
 on a black mat. This is for an academic project.
 
